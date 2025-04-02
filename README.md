@@ -59,10 +59,10 @@ This project involves creating a **Power BI dashboard** to analyze Amazon sales 
 
 ## 🖼️ Sample Dashboard Screenshots  
 📌 **Page 1: Overview**  
-![Overview](<a href="https://github.com/DipanjanBasak-git/Amazon-Sales-Dashboard-PowerBI/blob/main/Screenshot%202025-04-02%20154427.png">Overview Sales</a>) 
+(<a href="https://github.com/DipanjanBasak-git/Amazon-Sales-Dashboard-PowerBI/blob/main/Screenshot%202025-04-02%20154427.png">Overview Sales</a>) 
 ![Screenshot 2025-04-02 154427](https://github.com/user-attachments/assets/3bc8bca0-aa0e-4d33-af38-e248f173b20a)
 
-![Overview](<a href="https://github.com/DipanjanBasak-git/Amazon-Sales-Dashboard-PowerBI/blob/main/Screenshot%202025-04-02%20165938.png">Overview Units</a>)
+(<a href="https://github.com/DipanjanBasak-git/Amazon-Sales-Dashboard-PowerBI/blob/main/Screenshot%202025-04-02%20165938.png">Overview Units</a>)
 ![image](https://github.com/user-attachments/assets/58b4697a-03a0-4d37-a17a-cb1b73c44c16)
 
 
