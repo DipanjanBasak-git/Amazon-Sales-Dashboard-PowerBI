@@ -107,23 +107,3 @@ The dataset consists of **28,731 records** with key attributes such as:
 If you found this project useful, feel free to connect with me on **LinkedIn**! 🚀  
 
 ---  
-
-## 📝 LinkedIn Post Description  
-🚀 **Amazon Sales Dashboard - Power BI Project (2022 Data)** 🚀  
-
-I am excited to share my latest **Power BI dashboard project**! 📊 This dashboard provides in-depth insights into **Amazon's product sales trends, customer preferences, and revenue patterns for the year 2022**.  
-
-### 🔹 Key Features:  
-✅ **Total Sales: $89.08 Million** 📈  
-✅ **Total Units Sold: 120.30K** 📦  
-✅ **Best-Selling Products & Categories** 🏆  
-✅ **Customer Ratings & Review Trends** ⭐  
-✅ **Stock Availability & Pricing Impact** 💰  
-
-I used **Power Query** for extensive data cleaning & transformation, ensuring high-quality insights. This dashboard is fully **interactive**, helping businesses understand product performance better!  
-
-Check out the project on **GitHub**: [🔗 Add your GitHub link here]  
-
-Let me know your thoughts and feedback! 😊 #PowerBI #DataAnalytics #AmazonSales
-
-
