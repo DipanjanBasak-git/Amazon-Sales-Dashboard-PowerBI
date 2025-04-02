@@ -67,10 +67,20 @@ This project involves creating a **Power BI dashboard** to analyze Amazon sales 
 
 
 📌 **Page 2: Product**  
-![Product](./images/product.png)  
+(<a href="https://github.com/DipanjanBasak-git/Amazon-Sales-Dashboard-PowerBI/blob/main/Screenshot%202025-04-02%20154502.png">All Product Sales Display</a>)
+![Screenshot 2025-04-02 154502](https://github.com/user-attachments/assets/4697f0b0-b883-4773-8b67-5a4ae0417b38)
+
+(<a href="https://github.com/DipanjanBasak-git/Amazon-Sales-Dashboard-PowerBI/blob/main/Screenshot%202025-04-02%20154004.png">Check Product Sales</a>) 
+![Screenshot 2025-04-02 154004](https://github.com/user-attachments/assets/c746f229-7cc6-460d-960e-ca680826ee7d)
+
 
 📌 **Page 3: Product View**  
-![Product View](./images/product_view.png)  
+(<a href="https://github.com/DipanjanBasak-git/Amazon-Sales-Dashboard-PowerBI/blob/main/Screenshot%202025-04-02%20154529.png">All Product-view Sales</a>) 
+![Screenshot 2025-04-02 154529](https://github.com/user-attachments/assets/06e12001-7475-4e35-b6b4-64e6bcd0ecb8)
+
+(<a href="https://github.com/DipanjanBasak-git/Amazon-Sales-Dashboard-PowerBI/blob/main/Screenshot%202025-04-02%20154021.png">Specific Product-view Sales</a>) 
+![Screenshot 2025-04-02 154021](https://github.com/user-attachments/assets/a7c74f13-23e4-42fb-b601-f52d7d345f51)
+
 
 ## ⚙️ Data Cleaning & Processing  
 ```
@@ -113,5 +123,5 @@ This project involves creating a **Power BI dashboard** to analyze Amazon sales 
 
 ## 🤝 Connect with Me  
 If you found this project useful, feel free to connect with me on **LinkedIn**! 🚀  
-
+<a href="https://www.linkedin.com/in/dipanjan-basak-49bb59280/">Linkedin Account Link!</a>
 ---  
