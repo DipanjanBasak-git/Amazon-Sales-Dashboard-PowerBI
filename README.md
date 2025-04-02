@@ -12,6 +12,9 @@ This project involves creating a **Power BI dashboard** to analyze Amazon sales 
 
 ## 🗂️ Dataset Details  
 ### **Dataset Used: Amazon Sales 2022**  
+- <a href ="https://github.com/DipanjanBasak-git/Amazon-Sales-Dashboard-PowerBI/blob/main/Amazon%20Sale%20Report%20-%20YT.xlsx>Amazon-Sale-Report-Dataset</a>
+- <a href ="https://github.com/DipanjanBasak-git/Amazon-Sales-Dashboard-PowerBI/blob/main/compressed_data.csv.gz>Amazon-Sales-Cleaned-Dataset</a>
+
 The dataset consists of **28,731 records** with key attributes such as:  
 
 ```
